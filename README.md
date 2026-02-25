@@ -1,2 +1,1 @@
-Basic diffusion model with TinyUNet
-Introduction to Age of Engineering with AI
+Basic diffusion model with TinyUNet and Introduction to Age of Engineering with AI
